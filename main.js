@@ -5,4 +5,6 @@ const tambah = "dev-feature";
 const test2 = "dev-feature";
 //tambah sini
 
-const version = "1.0.1";
+const version = "1.0.2";
+
+//iiini version 1.0.2 editttt
