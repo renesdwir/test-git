@@ -9,3 +9,7 @@ function consoleText(text) {
 }
 
 consoleText(newFeature);
+
+const myName = "budi";
+
+console.log(myName.length);
