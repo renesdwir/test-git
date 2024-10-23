@@ -15,3 +15,4 @@ const myName = "budi";
 console.log(myName.length);
 
 // release version 0.0.2 dengan membawa feature budi & feature renes
+// feature budi membuat bug harus di revert
