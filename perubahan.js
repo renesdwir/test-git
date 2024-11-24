@@ -1,1 +1,2 @@
 const perubahan = "perubahan";
+//reset
