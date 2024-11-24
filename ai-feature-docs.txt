@@ -1,7 +1,7 @@
 
 create some stuff about ai feature documentation
-FIX THIS LINE, and messed up axnd alxsxo ixmplexnting to oxthexr fixlexs
+and also implenting to other files
 
 
 // release log
-RELEASE AI-FEATURE 1.0.1
+RELEASE AI-FEATURE 1.0.0
