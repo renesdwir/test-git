@@ -1,3 +1,7 @@
 
 create some stuff about ai feature documentation
 and also implenting to other files
+
+
+// release log
+RELEASE AI-FEATURE 1.0.0
