@@ -10,3 +10,5 @@ const version = "1.0.2";
 //iiini version 1.0.2 serius 2
 
 //reset
+// hey there is an ai feature here
+// code for ai feature
